@@ -1,10 +1,10 @@
-![image](https://github.com/1984vc/StartupFinanceScripts/assets/2868/f1423f8a-d63c-43bb-b644-51378eb39d75)
+![image](https://github.com/1984vc/FinanceFunctions/assets/2868/f8c98521-7997-4544-a0a1-d56e9d748226)
 
 # 1984 Startup Finance Scripts
 
 This repository builds the finance Apps Script used by 1984's SAFE Conversion Worksheet
 
-[SAFE Conversion Google Sheet](https://docs.google.com/spreadsheets/d/1eunUazlR9qeNVkH29ihF9MCrLtmBNAANByzck2HceX4/edit?usp=sharing)
+[Latest SAFE Conversion Google Sheet](https://docs.google.com/spreadsheets/d/1eunUazlR9qeNVkH29ihF9MCrLtmBNAANByzck2HceX4/edit?usp=sharing)
 
 ## Why
 
